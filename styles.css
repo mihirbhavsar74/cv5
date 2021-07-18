@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+
+    
+
+.Top-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-1{
+    width: 60%;
+    float: left;
+    margin-right: 30px;
+}
+.code-2{
+    width: 60%;
+    float: left;
+    margin-right: 30px;
+}
+.code-3{
+    width: 60%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.Middle-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.Bottom-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
